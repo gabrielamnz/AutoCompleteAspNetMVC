@@ -1,2 +1,0 @@
-# AutoCompleteAspNetMVC
-Auto Complete
