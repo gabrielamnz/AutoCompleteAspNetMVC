@@ -69,8 +69,11 @@ C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\bin\
 C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\bin\Newtonsoft.Json.xml
 C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\bin\Antlr3.Runtime.pdb
 C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\obj\Debug\AutoCompleteAspNetMVC.csprojAssemblyReference.cache
 C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\obj\Debug\AutoCompleteAspNetMVC.csproj.CoreCompileInputs.cache
 C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\obj\Debug\AutoCompleteAspNetMVC.csproj.CopyComplete
 C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\obj\Debug\AutoCompleteAspNetMVC.dll
 C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\obj\Debug\AutoCompleteAspNetMVC.pdb
+C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\bin\EntityFramework.dll
+C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\bin\EntityFramework.xml
+C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\bin\EntityFramework.SqlServer.xml
