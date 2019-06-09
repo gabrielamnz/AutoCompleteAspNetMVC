@@ -77,3 +77,4 @@ C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\bin\
 C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\bin\EntityFramework.SqlServer.dll
 C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\bin\EntityFramework.xml
 C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\gmnzf\Documents\GitHub\AutoCompleteAspNetMVC\AutoCompleteAspNetMVC\obj\Debug\AutoCompleteAspNetMVC.csprojAssemblyReference.cache
