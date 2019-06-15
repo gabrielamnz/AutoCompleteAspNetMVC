@@ -9,8 +9,8 @@ namespace AutoCompleteAspNetMVC
         public static void RegisterBundles(BundleCollection bundles)
         {
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
-                        "~/Scripts/jquery-{version}.js",
-                        "~/Scripts/jquery-3.4.1.min.js",
+                        "~/Scripts/jquery-{version}.js",                        
+                        "~/Scripts/jquery-3.3.1.min.js",
                         "~/Scripts/jquery.mask.min.js", //Sempre colocar para funcionar as mascaras
                         "~/Scripts/mascara.js"));
 
@@ -24,7 +24,8 @@ namespace AutoCompleteAspNetMVC
                         "~/Scripts/modernizr-*"));
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
-                      "~/Scripts/bootstrap.js"));
+                      "~/Scripts/bootstrap.js",
+                      "~/Scripts/bootstrap.min.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
